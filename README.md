@@ -3,7 +3,7 @@
 #### [中文](./README_CN.md)
 
 #### Example of use
-- Use the command: git clone https://github.com/picup-shop/api-csharp-examples.git Clone this project
+- Use the command: git clone https://github.com/cutout-pro/api-csharp-examples.git Clone this project
 - Change the APIKEY under Program.cs, and call the relevant sample API interface method in the main method. Note: (*Sample code is for reference only, if you need to use it, please make changes based on the actual situation of the project*)
 
 #### Api file:
