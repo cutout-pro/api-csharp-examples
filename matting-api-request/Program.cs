@@ -8,7 +8,7 @@ namespace matting_api_request
         //Account key
         private const string APIKEY = "Enter the APIKEY for the account";
         //Request the address
-        private const string REQUEST_URL = "https://picupapi.tukeli.net/api/v1";
+        private const string REQUEST_URL = "https://www.cutout.pro/api/v1";
 
         //Read path (this path is the picture folder path under the current project)
         private static readonly string READ_IMAGE_PATH;
