@@ -25,9 +25,9 @@ namespace matting_api_request
         {
             READ_IMAGE_PATH = Path.GetFullPath("../../..") + @"\images\";
             apiMattingRqeuest = new ApiMattingRqeuest(APIKEY);
-            ImageUrl = "https://pics6.baidu.com/feed/574e9258d109b3de9ff792ddf1564f87810a4c2d.jpeg?token=4a333e5c57d8a35cbe23682083316697&s=58898F5566027355008448A80300E00A";
-            ImageUrl2 = "http://images.news18.com/ibnlive/uploads/2018/09/Ducati-Panigale-959-Corsa.jpg";
-            ImageUrl3 = "http://wdpicup.oss-cn-hangzhou.aliyuncs.com/matting_original/2021/04/25/f1d95be6da2e490588e55e0757ac34eb.jpg?Expires=1619936560&OSSAccessKeyId=LTAIzt3dzL2GfSyG&Signature=kgXZ00EDzaTipKf8ABGMc%2BMGA%2FI%3D";
+            ImageUrl = "https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/passport/3-large.jpeg";
+            ImageUrl2 = "https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/passport/3-large.jpeg";
+            ImageUrl3 = "https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/passport/3-large.jpeg";
         }
 
         static void Main(string[] args)
